@@ -8,3 +8,16 @@ HISTORY OF C PROGRAMMING:
 >He was also invented operating system called as UNIX while working at Bell
 
 >ALGOL->BPCL->B->C Language in 1972
+
+STRUCTURE OF C PROGRAMMING:
+> #include<stdio.h>   ------->preprocessor we include particular librart called stdio.h it had a specific function for us it allowed us to print something on screen by using printf function
+
+  int main()
+  
+  {
+  
+      printf("Lekhana sarikonda");
+      
+      return 0;
+      
+  }
