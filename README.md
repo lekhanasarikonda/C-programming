@@ -105,4 +105,32 @@ printf(" The sum is : %d",sum);
 
 ![Screenshot_7](https://github.com/lekhanasarikonda/C-programming/assets/134198650/223f8fba-e15e-4191-a8d9-5d1c8f6b6242)
 
+Features of C programming:
+
+>Middle level language
+
+>case sensitive
+
+>Highly portable
+
+>Fast and efficient
+
+>widely used in OS ans Embedded systems
+
+Types of Languages:
+1.HLL:
+>C,C++,JAVA,PYTHON,JAVASCRIPT
+
+>Easy code
+
+>Almost in english(Fast to write the code) i.e Human readable written language
+
+>Slow(in operations)
+
+2.LLL:
+
+> Assembly language machine code
+
+
+
   
