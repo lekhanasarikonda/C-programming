@@ -10,7 +10,7 @@ HISTORY OF C PROGRAMMING:
 >ALGOL->BPCL->B->C Language in 1972
 
 STRUCTURE OF C PROGRAMMING:
-> #include<stdio.h>   ------->preprocessor we include particular librart called stdio.h it had a specific function for us it allowed us to print something on screen by using printf function
+> #include<stdio.h>   ------->preprocessor we include particular library called stdio.h it had a specific function for us it allowed us to print something on screen by using printf function
 
   int main()
   
