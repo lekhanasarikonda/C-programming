@@ -22,26 +22,33 @@ STRUCTURE OF C PROGRAMMING:
       
   }
 
-  pre-procesiing area:
+  1.pre-procesiing area:  libraries and defining 
+
+  2.Libraries:
+  
   #include<stdio.h>   -----> allowed us to print & read something on screen
 
   #include<math.h>    ----->Has specific mathematical function ex: 2^7  as pow(2,7) and also trignometric function
 
    #include<string.h> ----->stream of characters enclosed by "  ex: "Iam Lekhana"
 
-   //Macros 
+   // 3.Macros 
 
    #define pi 3.14 global value and it never ever change
 
-   //Main function 
+   // 4.Main function 
+
+   //Functions
 
    #int main (){  ----> whenever we click upon run the code when its running the first thing that it look for where is my main program and then it will start the execution of the program
 
-   //variables  ----->stores the values like int,float,double,char
+   // 5.variables  ----->stores the values like int,float,double,char
 
    int a=10,b=20,sum;
 
-   //statements and expressions
+   // 6.statements and expressions  
+
+   ex: sum =a+b;
 
 A program is a collection of statements.
 
@@ -88,5 +95,14 @@ if ( a > 5) {
    
 }
 
-   
+// 7.comments
+
+It is also a part of structure of the program
+
+printf(" The sum is : %d",sum);
+
+//return 0;  ----> Return exit status of process to console
+
+![Screenshot_7](https://github.com/lekhanasarikonda/C-programming/assets/134198650/223f8fba-e15e-4191-a8d9-5d1c8f6b6242)
+
   
